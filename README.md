@@ -33,5 +33,8 @@ Executar o projeto
 
 Tive problemas ao executar o projeto ao clonar diretamente do git para testar.
 
-Foi necessário fazer o download do debug.keystore diretamente do site oficial e colar na pasta android/app
+Foi necessário fazer o download do debug.keystore diretamente do site oficial e colar na pasta android/app do projeto
+Esse passo eu realizei e subi junto do projeto atual aqui no git, explicando caso necessário.
 https://raw.githubusercontent.com/facebook/react-native/master/template/android/app/debug.keystore
+
+
