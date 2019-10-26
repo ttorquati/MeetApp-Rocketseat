@@ -10,26 +10,26 @@ docker start redismeetapp
 docker start mongomeetapp
 
 Instalar as dependencies
-yarn
+### `yarn`
 
 Executar o projeto
-yarn dev
+### `yarn dev`
 
 # Frontend
 Instalar as dependencies
-yarn
+### `yarn`
 
 Executar o projeto
-yarn start
+### `yarn start`
 
 # Mobile
 Utilizando Genymotion e um emulador para Samsung Galaxy S8
 
 Instalar as dependencies
-yarn
+### `yarn`
 
 Executar o projeto
-react-native run-android
+### `react-native run-android`
 
 Tive problemas ao executar o projeto ao clonar diretamente do git para testar.
 
