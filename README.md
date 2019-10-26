@@ -5,9 +5,9 @@ Projeto realizado em uma máquina utilizando windows 7.
 Necessário subir o Docker Toolbox e as imagens para o postgre, mongo, e redis.
 
 Iniciar os serviços do docker
-docker start database
-docker start redismeetapp
-docker start mongomeetapp
+### `docker start database`
+### `docker start redismeetapp`
+### `docker start mongomeetapp`
 
 Instalar as dependencies
 ### `yarn`
