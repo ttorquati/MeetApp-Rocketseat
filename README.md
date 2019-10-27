@@ -1,6 +1,9 @@
 # MeetApp-Rocketseat
 Projeto realizado em uma máquina utilizando windows 7.
 
+# Observações
+Na tela de cadastro / edição de meetapps utilizei o unform da Rocketseat, mas não foi possível utilizar o multiline - textarea pois o InitialData não funcionava quando setada a propriedade multiline no Input.
+
 # Backend
 Necessário subir o Docker Toolbox e as imagens para o postgre, mongo, e redis.
 
